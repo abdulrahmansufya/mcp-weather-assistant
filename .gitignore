@@ -1,0 +1,68 @@
+# Virtual Environment
+
+.venv/
+venv/
+env/
+
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Environment Variables
+
+.env
+.env.*
+
+# IDEs
+
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+
+.ipynb_checkpoints/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# UV
+
+.python-version
+
+# Testing
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type Checkers
+
+.mypy_cache/
+.pyright/
+
+# Ruff
+
+.ruff_cache/
+
+# Local MCP / Claude Files (optional)
+
+claude_desktop_config.json
+
+# Secrets
+
+secrets.json
+config.local.json

@@ -1,1 +1,0 @@
-# mcp-weather-assistant
